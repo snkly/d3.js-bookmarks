@@ -5,3 +5,4 @@ d3.js resources
 - [Marrying Backbone.js and d3.js](http://shirley.quora.com/Marrying-Backbone-js-and-D3-js)
 - [d3 + frameworkhere](http://bl.ocks.org/milroc/5518052)
 - [Miles McCrocklin Reusable Visualizations](https://www.youtube.com/watch?v=Hd2rye9a9kk)
+- [D3 Tips and Tricks Book](https://leanpub.com/D3-Tips-and-Tricks/read)
