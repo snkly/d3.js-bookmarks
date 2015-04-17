@@ -6,3 +6,5 @@ d3.js resources
 - [d3 + frameworkhere](http://bl.ocks.org/milroc/5518052)
 - [Miles McCrocklin Reusable Visualizations](https://www.youtube.com/watch?v=Hd2rye9a9kk)
 - [D3 Tips and Tricks Book](https://leanpub.com/D3-Tips-and-Tricks/read)
+- [Data structures] (https://www.dashingd3js.com/data-structures-d3js-accepts)
+- [Using JSON to simplify code](https://www.dashingd3js.com/using-json-to-simplify-code)
