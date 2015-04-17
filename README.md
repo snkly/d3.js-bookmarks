@@ -1,4 +1,3 @@
-# d3.js-bookmarks
 ##General
 - [Mike Bostock d3 workshop](http://bost.ocks.org/mike/d3/workshop/#0)
 - [Mike Bostock d3 joins](http://bost.ocks.org/mike/join/)
