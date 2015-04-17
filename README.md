@@ -8,3 +8,4 @@ d3.js resources
 - [D3 Tips and Tricks Book](https://leanpub.com/D3-Tips-and-Tricks/read)
 - [Data structures] (https://www.dashingd3js.com/data-structures-d3js-accepts)
 - [Using JSON to simplify code](https://www.dashingd3js.com/using-json-to-simplify-code)
+- [Selections enlightenment](http://bost.ocks.org/mike/selection/)
