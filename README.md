@@ -15,3 +15,9 @@
 - [Mister Nester - d3.js and data nesting console](http://bl.ocks.org/shancarter/raw/4748131/)
 - [D3 nest tutorial and examples](http://bl.ocks.org/phoebebright/raw/3176159/)
 - [Manipulating data like a boss with d3](http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/)
+
+##Animation
+- [Animations and trarnsitions] (http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/)
+
+##Other
+- [Selecting a JS Chart library](http://snippets.aktagon.com/tags/1230-c3js)
